@@ -1,5 +1,5 @@
 # Qrypton
-The Official Repository Of Qrypton
+The Official Repository Of Project Qrypton
 
 # About
 
